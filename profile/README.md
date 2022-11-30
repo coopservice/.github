@@ -5,7 +5,7 @@ Coopservice Soc.coop.p.A.
   <img src="https://avatars.githubusercontent.com/u/75876835?s=200&v=4" width="100">
 </p>
 
-Welcome to Coopservice Soc.coop.p.A.'s organization on GitHub.
+Welcome to Coopservice's organization on GitHub.
 
 * :books: vist our web site. [coopservice.it](https://coopservice.it)
 * :computer: visit us on facebook. [facebook](https://www.facebook.com/coopservicescpa)
