@@ -1,8 +1,8 @@
 Coopservice Soc.coop.p.A.
 
 ## Hello, World! :wave:
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/75876835?s=200&v=4" width="50">
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/75876835?s=200&v=4" width="100">
 </p>
 
 Welcome to Coopservice Soc.coop.p.A.'s organization on GitHub.
