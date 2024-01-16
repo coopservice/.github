@@ -1,6 +1,5 @@
 Coopservice Soc.coop.p.A.
 
-## Hello, World! :wave:
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/75876835?s=200&v=4" width="100">
 </p>
